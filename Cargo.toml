@@ -1,0 +1,10 @@
+[package]
+name = "minigameshub"
+version = "0.1.0"
+edition = "2021"
+authors = ["horizon7006"]
+description = "A collection of classic mini games written in Rust"
+license = "MIT"
+
+[dependencies]
+macroquad = "0.4"

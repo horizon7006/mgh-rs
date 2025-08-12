@@ -53,6 +53,7 @@ Successfully converted the Mini Games Hub from Python/pygame to Rust/macroquad.
 - Improved collision detection
 - More responsive input handling
 - Cleaner separation between menu and game states
+- And fixed bugs :)
 
 ## Build and Run
 ```bash

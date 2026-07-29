@@ -4,10 +4,10 @@ Welcome to the Rust version of Mini Games Hub! A collection of classic arcade ga
 
 ## Features
 
-- 🐍 **Snake** - Classic snake game where you eat food and grow longer
-- 🧩 **Tetris** - Block-dropping puzzle game with line clearing
-- 🏓 **Pong** - Two-player paddle game
-- 🤖 **Pong AI** - Single-player pong against AI opponent
+- Snake - Classic snake game where you eat food and grow longer
+- Tetris - Block-dropping puzzle game with line clearing
+- Pong - Two-player paddle game
+- Pong AI - Single-player pong against AI opponent
 
 ## Installation Guide
 
